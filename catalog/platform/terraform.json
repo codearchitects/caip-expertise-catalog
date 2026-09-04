@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "platform",
+  "topic": "terraform",
+  "title": "Terraform",
+  "entries": [
+    {
+      "stack": "terraform",
+      "fullName": "antonbabenko/terraform-skill",
+      "url": "https://github.com/antonbabenko/terraform-skill",
+      "path": "skills/terraform-skill",
+      "kind": "skills",
+      "license": "NOASSERTION",
+      "stars": 2326,
+      "forks": 204,
+      "defaultBranch": "master",
+      "description": "Terraform & OpenTofu skill for AI agents: testing, modules, CI/CD, and production patterns, by a leading Terraform module maintainer",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "terraform",
+      "fullName": "terramate-io/agent-skills",
+      "url": "https://github.com/terramate-io/agent-skills",
+      "path": "skills/terraform-best-practices",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 34,
+      "forks": 0,
+      "defaultBranch": "main",
+      "description": "Agent skills for Terraform, OpenTofu, and Terramate spanning state splitting, testing, modules, CI/CD, and drift reconciliation",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

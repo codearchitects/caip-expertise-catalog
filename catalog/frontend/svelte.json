@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "frontend",
+  "topic": "svelte",
+  "title": "Svelte",
+  "entries": [
+    {
+      "stack": "sveltekit",
+      "fullName": "PatrickJS/awesome-cursorrules",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "path": "rules/sveltekit-typescript-guide-cursorrules-prompt-file.mdc",
+      "kind": "instructions",
+      "license": "CC0-1.0",
+      "stars": 40722,
+      "forks": 3470,
+      "defaultBranch": "main",
+      "description": "SvelteKit + TypeScript Cursor rules guide",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "svelte",
+      "fullName": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "path": "instructions/svelte.instructions.md",
+      "kind": "instructions",
+      "license": "MIT",
+      "stars": 38623,
+      "forks": 4882,
+      "defaultBranch": "main",
+      "description": "Community-contributed Copilot instructions, agents and skills collection; svelte.instructions.md covers Svelte best practices",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "svelte",
+      "fullName": "spences10/svelte-skills-kit",
+      "url": "https://github.com/spences10/svelte-skills-kit",
+      "path": "plugins/svelte-skills/skills",
+      "kind": "skills",
+      "license": "none",
+      "stars": 92,
+      "forks": 2,
+      "defaultBranch": "main",
+      "description": "Claude Code skill plugin for Svelte 5 runes, components, styling, deployment, and layerchart",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "sveltekit",
+      "fullName": "full-stack-skills/svelte-skills",
+      "url": "https://github.com/full-stack-skills/svelte-skills",
+      "path": "skills",
+      "kind": "skills",
+      "license": "none",
+      "stars": 3,
+      "forks": 2,
+      "defaultBranch": "main",
+      "description": "Svelte/SvelteKit skills for AI coding agents: routing, layouts, data loading, actions, auth patterns, form validation",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

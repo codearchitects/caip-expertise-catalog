@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "platform",
+  "topic": "docker",
+  "title": "Docker & Compose",
+  "entries": [
+    {
+      "stack": "docker/compose",
+      "fullName": "VoltAgent/awesome-claude-code-subagents",
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "path": "categories/03-infrastructure/docker-expert.md",
+      "kind": "agents",
+      "license": "MIT",
+      "stars": 24846,
+      "forks": 2875,
+      "defaultBranch": "main",
+      "description": "docker-expert subagent for containerization and Docker Compose orchestration",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "docker/google-cloud/serverless",
+      "fullName": "google/skills",
+      "url": "https://github.com/google/skills",
+      "path": "skills/cloud/cloud-run-basics",
+      "kind": "skills",
+      "license": "Apache-2.0",
+      "stars": 19471,
+      "forks": 1562,
+      "defaultBranch": "main",
+      "description": "Official Google agent skills; cloud-run-basics manages Cloud Run services, jobs, and worker pools for containerized deployments",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "docker/compose",
+      "fullName": "netresearch/docker-development-skill",
+      "url": "https://github.com/netresearch/docker-development-skill",
+      "path": "skills/docker-development",
+      "kind": "skills",
+      "license": "NOASSERTION",
+      "stars": 19,
+      "forks": 1,
+      "defaultBranch": "main",
+      "description": "Agent Skill for Docker image development patterns: Dockerfile best practices, CI testing, and compose orchestration",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

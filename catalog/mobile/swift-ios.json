@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "mobile",
+  "topic": "swift-ios",
+  "title": "Swift / iOS",
+  "entries": [
+    {
+      "stack": "swift/ios/swiftui",
+      "fullName": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "path": "swiftui-pro",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 4648,
+      "forks": 167,
+      "defaultBranch": "main",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "swift/ios",
+      "fullName": "rshankras/claude-code-apple-skills",
+      "url": "https://github.com/rshankras/claude-code-apple-skills",
+      "path": "skills",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 699,
+      "forks": 66,
+      "defaultBranch": "main",
+      "description": "Claude Code skills for Apple platform development (iOS, macOS, iPadOS): product validation, code generation, App Store optimization",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

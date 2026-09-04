@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "mobile",
+  "topic": "flutter",
+  "title": "Flutter",
+  "entries": [
+    {
+      "stack": "flutter",
+      "fullName": "VoltAgent/awesome-claude-code-subagents",
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "path": "categories/02-language-specialists/flutter-expert.md",
+      "kind": "agents",
+      "license": "MIT",
+      "stars": 24846,
+      "forks": 2875,
+      "defaultBranch": "main",
+      "description": "100+ specialized Claude Code subagents; flutter-expert covers Flutter app architecture and widget patterns",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "flutter",
+      "fullName": "flutter/agent-plugins",
+      "url": "https://github.com/flutter/agent-plugins",
+      "path": "skills",
+      "kind": "skills",
+      "license": "BSD-3-Clause",
+      "stars": 2906,
+      "forks": 176,
+      "defaultBranch": "main",
+      "description": "Official Flutter-team agent plugins bundling SKILL.md skills, MCP config, and rules for Flutter dev workflows",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

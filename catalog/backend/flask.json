@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "backend",
+  "topic": "flask",
+  "title": "Flask",
+  "entries": [
+    {
+      "stack": "flask",
+      "fullName": "PatrickJS/awesome-cursorrules",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "path": "rules/python-flask-json-guide-cursorrules-prompt-file.mdc",
+      "kind": "instructions",
+      "license": "CC0-1.0",
+      "stars": 40722,
+      "forks": 3470,
+      "defaultBranch": "main",
+      "description": "Large collection of Cursor .mdc rule files across stacks, including a Flask JSON API guide",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

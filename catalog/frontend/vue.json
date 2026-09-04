@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "frontend",
+  "topic": "vue",
+  "title": "Vue",
+  "entries": [
+    {
+      "stack": "vue",
+      "fullName": "vuejs-ai/skills",
+      "url": "https://github.com/vuejs-ai/skills",
+      "path": "skills",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 2822,
+      "forks": 165,
+      "defaultBranch": "main",
+      "description": "Agent skills for Vue 3 development covering best practices, Vue Router, and Pinia",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "vue",
+      "fullName": "alexanderop/claude-skill-vue-development",
+      "url": "https://github.com/alexanderop/claude-skill-vue-development",
+      "kind": "skills",
+      "license": "none",
+      "stars": 30,
+      "forks": 4,
+      "defaultBranch": "main",
+      "description": "Test-driven Vue 3 + TypeScript Claude Code Agent Skill emphasizing functional patterns and maintainable architecture",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "backend",
+  "topic": "dotnet",
+  "title": ".NET / ASP.NET",
+  "entries": [
+    {
+      "stack": "dotnet/aspnet/net/csharp",
+      "fullName": "Aaronontheweb/dotnet-skills",
+      "url": "https://github.com/Aaronontheweb/dotnet-skills",
+      "path": "skills",
+      "kind": "mixed",
+      "license": "MIT",
+      "stars": 1139,
+      "forks": 102,
+      "defaultBranch": "master",
+      "description": "Claude Code skills and sub-agents for .NET developers",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "dotnet/aspnet/net/csharp",
+      "fullName": "codewithmukesh/dotnet-claude-kit",
+      "url": "https://github.com/codewithmukesh/dotnet-claude-kit",
+      "path": "skills",
+      "kind": "mixed",
+      "license": "MIT",
+      "stars": 695,
+      "forks": 165,
+      "defaultBranch": "main",
+      "description": "Makes Claude Code a .NET 10 expert via specialist agents and skills",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

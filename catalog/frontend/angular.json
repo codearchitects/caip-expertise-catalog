@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "frontend",
+  "topic": "angular",
+  "title": "Angular",
+  "entries": [
+    {
+      "stack": "angular",
+      "fullName": "angular/skills",
+      "url": "https://github.com/angular/skills",
+      "path": "angular-developer",
+      "kind": "skills",
+      "license": "none",
+      "stars": 632,
+      "forks": 45,
+      "defaultBranch": "main",
+      "description": "Official Angular-team agent skills (angular-developer, angular-new-app) for code generation and architecture guidance; no LICENSE file present",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "angular",
+      "fullName": "mofirojean/angular-ui-skills",
+      "url": "https://github.com/mofirojean/angular-ui-skills",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 29,
+      "forks": 2,
+      "defaultBranch": "master",
+      "description": "Agent skills teaching AI coding assistants to build Angular apps with popular UI component libraries",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

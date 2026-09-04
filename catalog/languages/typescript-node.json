@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "languages",
+  "topic": "typescript-node",
+  "title": "TypeScript / Node.js",
+  "entries": [
+    {
+      "stack": "typescript/node",
+      "fullName": "SpillwaveSolutions/mastering-typescript-skill",
+      "url": "https://github.com/SpillwaveSolutions/mastering-typescript-skill",
+      "path": "mastering-typescript",
+      "kind": "skills",
+      "license": "none",
+      "stars": 30,
+      "forks": 2,
+      "defaultBranch": "main",
+      "description": "Claude Code skill for enterprise-grade TypeScript development with type-safe patterns and React/NestJS framework integration",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "typescript/node",
+      "fullName": "jesus-seijas-sp/claude-node-setup",
+      "url": "https://github.com/jesus-seijas-sp/claude-node-setup",
+      "path": ".claude",
+      "kind": "mixed",
+      "license": "MIT",
+      "stars": 10,
+      "forks": 1,
+      "defaultBranch": "main",
+      "description": "Claude Code skills, commands and agents for Node.js/Fastify backend development",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

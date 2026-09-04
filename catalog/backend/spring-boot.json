@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "backend",
+  "topic": "spring-boot",
+  "title": "Spring Boot",
+  "entries": [
+    {
+      "stack": "spring-boot/spring",
+      "fullName": "piomin/claude-ai-spring-boot",
+      "url": "https://github.com/piomin/claude-ai-spring-boot",
+      "path": ".claude/skills/spring-boot",
+      "kind": "skills",
+      "license": "Apache-2.0",
+      "stars": 1287,
+      "forks": 405,
+      "defaultBranch": "main",
+      "description": "Claude Code template with multiple skills (spring-boot-engineer, jpa-patterns, java-architect) for Spring Boot projects",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "spring-boot/spring",
+      "fullName": "rrezartprebreza/spring-boot-skills",
+      "url": "https://github.com/rrezartprebreza/spring-boot-skills",
+      "path": "skills/spring-boot-3",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 255,
+      "forks": 39,
+      "defaultBranch": "main",
+      "description": "Production-grade Claude Code and Codex skills for Spring Boot developers, versioned by Spring Boot 3 and 4",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

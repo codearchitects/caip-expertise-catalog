@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "languages",
+  "topic": "go",
+  "title": "Go",
+  "entries": [
+    {
+      "stack": "go",
+      "fullName": "samber/cc-skills-golang",
+      "url": "https://github.com/samber/cc-skills-golang",
+      "path": "skills",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 3163,
+      "forks": 206,
+      "defaultBranch": "main",
+      "description": "A collection of Golang agentic skills for Claude Code",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "go",
+      "fullName": "cxuu/golang-skills",
+      "url": "https://github.com/cxuu/golang-skills",
+      "path": "skills",
+      "kind": "skills",
+      "license": "Apache-2.0",
+      "stars": 155,
+      "forks": 18,
+      "defaultBranch": "main",
+      "description": "AI Agent Skills for idiomatic, production-ready Go code, distilled from Google, Uber, and community practices",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

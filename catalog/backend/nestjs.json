@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "backend",
+  "topic": "nestjs",
+  "title": "NestJS",
+  "entries": [
+    {
+      "stack": "nestjs",
+      "fullName": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "path": "instructions/nestjs.instructions.md",
+      "kind": "instructions",
+      "license": "MIT",
+      "stars": 38623,
+      "forks": 4882,
+      "defaultBranch": "main",
+      "description": "Community-contributed Copilot instructions collection; nestjs.instructions.md covers NestJS architecture conventions",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "nestjs",
+      "fullName": "Kadajett/agent-nestjs-skills",
+      "url": "https://github.com/Kadajett/agent-nestjs-skills",
+      "path": "skills/nestjs-best-practices",
+      "kind": "skills",
+      "license": "none",
+      "stars": 269,
+      "forks": 31,
+      "defaultBranch": "main",
+      "description": "NestJS best-practices and architecture skill: 40 rules across 10 categories for AI coding agents",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

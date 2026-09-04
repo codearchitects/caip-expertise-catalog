@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "backend",
+  "topic": "express",
+  "title": "Express",
+  "entries": [
+    {
+      "stack": "express",
+      "fullName": "PatrickJS/awesome-cursorrules",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "path": "rules/node-express.mdc",
+      "kind": "instructions",
+      "license": "CC0-1.0",
+      "stars": 40722,
+      "forks": 3470,
+      "defaultBranch": "main",
+      "description": "Node/Express Cursor rules file covering REST API conventions and project structure",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

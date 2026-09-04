@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/codearchitects/caip-expertise-catalog/main/schema/topic.schema.json",
+  "title": "CAIP expertise catalog — one topic file",
+  "type": "object",
+  "required": ["category", "topic", "title", "entries"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "category": {
+      "description": "The folder this file lives in. See CATEGORIES.md.",
+      "enum": ["backend", "frontend", "mobile", "languages", "data", "platform", "quality"]
+    },
+    "topic": {
+      "description": "The file's own name, without .json. Lowercase, dashes.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "title": { "description": "How a human says the topic.", "type": "string", "minLength": 2 },
+    "entries": { "type": "array", "items": { "$ref": "#/$defs/entry" } }
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": ["stack", "fullName", "url", "kind", "license", "defaultBranch", "description", "verifiedAt"],
+      "additionalProperties": false,
+      "properties": {
+        "stack": {
+          "description": "The stack keys this pack serves, '/'-separated aliases. Matched against a container's declared framework/language, normalized (lowercase, separators dropped).",
+          "type": "string",
+          "pattern": "^[a-z0-9.+#-]+(/[a-z0-9.+#-]+)*$"
+        },
+        "fullName": { "description": "owner/name on GitHub.", "type": "string", "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$" },
+        "url": { "type": "string", "pattern": "^https://github\\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$" },
+        "path": {
+          "description": "Repository-relative folder or file holding the pack. Omit when the pack is the repository root. Never absolute, never '..'.",
+          "type": "string",
+          "pattern": "^[^/][^\\\\]*$"
+        },
+        "kind": { "enum": ["skills", "agents", "instructions", "mixed"] },
+        "license": {
+          "description": "SPDX id, or 'none' when the repository carries no LICENSE file. 'none' is allowed but must be read before relying on it.",
+          "type": "string"
+        },
+        "stars": { "type": "integer", "minimum": 0 },
+        "forks": { "type": "integer", "minimum": 0 },
+        "defaultBranch": { "type": "string", "minLength": 1 },
+        "description": {
+          "description": "What the pack teaches, in one sentence. Not marketing: a maintainer's note.",
+          "type": "string",
+          "minLength": 20,
+          "maxLength": 400
+        },
+        "verifiedAt": { "description": "ISO date the entry was last checked against the GitHub API.", "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" }
+      }
+    }
+  }
+}

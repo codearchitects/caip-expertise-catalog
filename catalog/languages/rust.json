@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "languages",
+  "topic": "rust",
+  "title": "Rust",
+  "entries": [
+    {
+      "stack": "rust",
+      "fullName": "actionbook/rust-skills",
+      "url": "https://github.com/actionbook/rust-skills",
+      "path": "skills",
+      "kind": "mixed",
+      "license": "none",
+      "stars": 1439,
+      "forks": 111,
+      "defaultBranch": "main",
+      "description": "Rust Developer AI Assistance System: meta-problem-driven knowledge indexing for agent skills",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "rust",
+      "fullName": "leonardomso/rust-skills",
+      "url": "https://github.com/leonardomso/rust-skills",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 483,
+      "forks": 56,
+      "defaultBranch": "master",
+      "description": "A collection of 265 rules across 26 categories that AI coding agents use to write idiomatic, fast, and safe Rust",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      # Fails when a topic file is malformed, an entry is a duplicate, or catalog.json was
+      # hand-edited / not rebuilt. The generated file is committed, so it must always agree.
+      - run: node scripts/build.mjs --check

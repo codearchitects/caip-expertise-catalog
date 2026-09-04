@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "platform",
+  "topic": "kubernetes",
+  "title": "Kubernetes",
+  "entries": [
+    {
+      "stack": "kubernetes",
+      "fullName": "VoltAgent/awesome-claude-code-subagents",
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "path": "categories/03-infrastructure/kubernetes-specialist.md",
+      "kind": "agents",
+      "license": "MIT",
+      "stars": 24846,
+      "forks": 2875,
+      "defaultBranch": "main",
+      "description": "kubernetes-specialist subagent for cluster architecture, manifests, and Helm charts",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "kubernetes/gke/google-cloud",
+      "fullName": "google/skills",
+      "url": "https://github.com/google/skills",
+      "path": "skills/cloud/gke-basics",
+      "kind": "skills",
+      "license": "Apache-2.0",
+      "stars": 19471,
+      "forks": 1562,
+      "defaultBranch": "main",
+      "description": "Official Google agent skills; gke-basics plans, creates, and configures production-ready GKE (Kubernetes) clusters using the Autopilot golden path",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "kubernetes",
+      "fullName": "LukasNiessen/kubernetes-skill",
+      "url": "https://github.com/LukasNiessen/kubernetes-skill",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 391,
+      "forks": 72,
+      "defaultBranch": "main",
+      "description": "Kubernetes skill for Claude Code/Codex grounding K8s and Helm work in official best practices to cut hallucinations",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

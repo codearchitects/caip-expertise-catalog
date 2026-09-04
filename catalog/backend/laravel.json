@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "backend",
+  "topic": "laravel",
+  "title": "PHP / Laravel",
+  "entries": [
+    {
+      "stack": "php/laravel",
+      "fullName": "VoltAgent/awesome-claude-code-subagents",
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "path": "categories/02-language-specialists/laravel-specialist.md",
+      "kind": "agents",
+      "license": "MIT",
+      "stars": 24846,
+      "forks": 2875,
+      "defaultBranch": "main",
+      "description": "laravel-specialist subagent for Laravel application architecture and conventions",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "php/laravel",
+      "fullName": "laravel/agent-skills",
+      "url": "https://github.com/laravel/agent-skills",
+      "path": "laravel",
+      "kind": "mixed",
+      "license": "none",
+      "stars": 714,
+      "forks": 29,
+      "defaultBranch": "main",
+      "description": "Laravel's official collection of agent skills for AI-assisted Laravel development",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

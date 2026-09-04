@@ -1,0 +1,22 @@
+name: Report a bad entry
+description: A listed pack is gone, moved, archived, or should not be listed
+labels: ["needs-review"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: The entry
+      placeholder: owner/name
+    validations: { required: true }
+  - type: dropdown
+    id: what
+    attributes:
+      label: What happened
+      options: [Repository is gone, Repository is archived, The path moved or no longer exists, Licence changed or withdrawn, The prose is not acceptable, Something else]
+    validations: { required: true }
+  - type: textarea
+    id: detail
+    attributes:
+      label: Evidence
+      description: What you saw. For a prose problem, quote the lines.
+    validations: { required: true }

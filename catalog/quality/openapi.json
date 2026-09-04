@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "quality",
+  "topic": "openapi",
+  "title": "OpenAPI & REST contracts",
+  "entries": [
+    {
+      "stack": "openapi/rest",
+      "fullName": "neutree-ai/openapi-to-skills",
+      "url": "https://github.com/neutree-ai/openapi-to-skills",
+      "path": "templates",
+      "kind": "skills",
+      "license": "Apache-2.0",
+      "stars": 340,
+      "forks": 18,
+      "defaultBranch": "main",
+      "description": "Converts OpenAPI specs into context-efficient Agent Skill (SKILL.md) documentation for AI agents",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "openapi/rest",
+      "fullName": "speakeasy-api/skills",
+      "url": "https://github.com/speakeasy-api/skills",
+      "path": "skills/writing-openapi-specs",
+      "kind": "skills",
+      "license": "Apache-2.0",
+      "stars": 18,
+      "forks": 6,
+      "defaultBranch": "master",
+      "description": "Agent Skills for OpenAPI authoring and SDK generation with the Speakeasy CLI",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

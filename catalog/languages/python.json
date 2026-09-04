@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "languages",
+  "topic": "python",
+  "title": "Python",
+  "entries": [
+    {
+      "stack": "python",
+      "fullName": "wdm0006/python-skills",
+      "url": "https://github.com/wdm0006/python-skills",
+      "path": "skills/python",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 85,
+      "forks": 12,
+      "defaultBranch": "main",
+      "description": "Checklist-driven Claude Code skills for professional Python development: api-design, packaging, testing-strategy, release-management",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "python",
+      "fullName": "jiatastic/open-python-skills",
+      "url": "https://github.com/jiatastic/open-python-skills",
+      "path": "skills",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 9,
+      "forks": 1,
+      "defaultBranch": "main",
+      "description": "AI skill sets for building solid Python backends: fastapi-design, pydantic, error-handling, ruff-linter, ty-skills",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

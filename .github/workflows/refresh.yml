@@ -1,0 +1,39 @@
+name: refresh
+
+# The facts that go stale on their own — stars, forks, licence, default branch — re-read from
+# the GitHub API and proposed as a PULL REQUEST. Never a push to main: everything here is
+# reviewed by a human at Code Architects, including what a script wrote.
+on:
+  schedule:
+    - cron: '0 6 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Re-read every entry
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node scripts/refresh.mjs --write
+          node scripts/build.mjs
+      - name: Propose the result
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: refresh/metrics
+          title: 'refresh: re-read the catalog against the GitHub API'
+          body-path: refresh-report.md
+          commit-message: 'refresh: stars, forks, licence and default branch'
+          labels: refresh
+          delete-branch: true
+          add-paths: |
+            catalog/**
+            catalog.json

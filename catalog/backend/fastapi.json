@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "backend",
+  "topic": "fastapi",
+  "title": "FastAPI",
+  "entries": [
+    {
+      "stack": "fastapi",
+      "fullName": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "path": "plugins/python-development/agents/fastapi-pro.md",
+      "kind": "agents",
+      "license": "MIT",
+      "stars": 39397,
+      "forks": 4201,
+      "defaultBranch": "main",
+      "description": "Multi-harness agentic plugin marketplace; fastapi-pro agent covers production FastAPI backend design",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "fastapi",
+      "fullName": "marcius-llmus/fastapi-skill",
+      "url": "https://github.com/marcius-llmus/fastapi-skill",
+      "kind": "skills",
+      "license": "none",
+      "stars": 5,
+      "forks": 0,
+      "defaultBranch": "master",
+      "description": "Single-purpose SKILL.md enforcing layered FastAPI architecture (routes/services/repositories, DI, DTO contracts, transaction boundaries)",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

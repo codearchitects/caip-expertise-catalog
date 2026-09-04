@@ -1,0 +1,37 @@
+name: Propose a pack
+description: Suggest a skills / agents / instructions repository for the shortlist
+labels: ["candidate"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repository
+      placeholder: owner/name
+    validations: { required: true }
+  - type: input
+    id: path
+    attributes:
+      label: Path inside the repository
+      description: The folder or file holding the pack. Leave empty if it is the repository root.
+      placeholder: skills/django
+  - type: input
+    id: stack
+    attributes:
+      label: Stack keys
+      description: "'/'-separated aliases, matched against a container's declared framework or language."
+      placeholder: django/python
+    validations: { required: true }
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs here
+      description: What it teaches, and what you read to be sure. Not the repository's own pitch.
+    validations: { required: true }
+  - type: checkboxes
+    id: bar
+    attributes:
+      label: The bar
+      options:
+        - label: The path really holds SKILL.md / agent / instruction files
+        - label: The repository is not archived and was pushed to within the year
+        - label: I read the prose, and it teaches the stack rather than directing the agent

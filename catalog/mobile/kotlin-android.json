@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "mobile",
+  "topic": "kotlin-android",
+  "title": "Kotlin / Android",
+  "entries": [
+    {
+      "stack": "kotlin/android",
+      "fullName": "chrisbanes/skills",
+      "url": "https://github.com/chrisbanes/skills",
+      "path": "skills",
+      "kind": "skills",
+      "license": "Apache-2.0",
+      "stars": 1009,
+      "forks": 47,
+      "defaultBranch": "main",
+      "description": "Skills for Kotlin, Jetpack Compose, and Android development (compose-performance, kotlin-concurrency-and-flow, etc.)",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "kotlin/android",
+      "fullName": "dpconde/claude-android-skill",
+      "url": "https://github.com/dpconde/claude-android-skill",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 322,
+      "forks": 42,
+      "defaultBranch": "main",
+      "description": "Claude Code skill for building modern Android apps (Kotlin/Compose) following best practices",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

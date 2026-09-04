@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "backend",
+  "topic": "rails",
+  "title": "Ruby on Rails",
+  "entries": [
+    {
+      "stack": "ruby/rails",
+      "fullName": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "path": "instructions/ruby-on-rails.instructions.md",
+      "kind": "instructions",
+      "license": "MIT",
+      "stars": 38623,
+      "forks": 4882,
+      "defaultBranch": "main",
+      "description": "Community-contributed Copilot instructions collection; ruby-on-rails.instructions.md covers Rails conventions",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "ruby/rails",
+      "fullName": "ThibautBaissac/rails_ai_agents",
+      "url": "https://github.com/ThibautBaissac/rails_ai_agents",
+      "path": ".claude",
+      "kind": "mixed",
+      "license": "MIT",
+      "stars": 659,
+      "forks": 81,
+      "defaultBranch": "main",
+      "description": "Specialized AI skills, agents, rules and hooks for modern Rails AI-driven development, plus a spec-driven-development kit and MCP integration",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

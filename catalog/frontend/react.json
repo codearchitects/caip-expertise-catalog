@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "frontend",
+  "topic": "react",
+  "title": "React",
+  "entries": [
+    {
+      "stack": "react",
+      "fullName": "VoltAgent/awesome-claude-code-subagents",
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "path": "categories/02-language-specialists/react-specialist.md",
+      "kind": "agents",
+      "license": "MIT",
+      "stars": 24846,
+      "forks": 2875,
+      "defaultBranch": "main",
+      "description": "react-specialist subagent for modern React architecture, hooks, and component patterns",
+      "verifiedAt": "2026-09-04"
+    },
+    {
+      "stack": "react",
+      "fullName": "Impertio-Studio/React-Claude-Skill-Package",
+      "url": "https://github.com/Impertio-Studio/React-Claude-Skill-Package",
+      "path": "skills/source",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 7,
+      "forks": 0,
+      "defaultBranch": "main",
+      "description": "24 deterministic Claude skills for React 18/19: hooks, components, Server Components, testing, performance",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}

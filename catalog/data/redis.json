@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/topic.schema.json",
+  "category": "data",
+  "topic": "redis",
+  "title": "Redis",
+  "entries": [
+    {
+      "stack": "redis",
+      "fullName": "redis/agent-skills",
+      "url": "https://github.com/redis/agent-skills",
+      "path": "skills/redis-core",
+      "kind": "skills",
+      "license": "MIT",
+      "stars": 140,
+      "forks": 29,
+      "defaultBranch": "main",
+      "description": "Redis' official collection of agent skills — data structures, query engine, vector search, caching, and performance optimization",
+      "verifiedAt": "2026-09-04"
+    }
+  ]
+}
