@@ -11,11 +11,11 @@
       "path": ".claude/skills/spring-boot",
       "kind": "skills",
       "license": "Apache-2.0",
-      "stars": 1287,
-      "forks": 405,
+      "stars": 1437,
+      "forks": 452,
       "defaultBranch": "main",
       "description": "Claude Code template with multiple skills (spring-boot-engineer, jpa-patterns, java-architect) for Spring Boot projects",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "spring-boot/spring",
@@ -24,11 +24,11 @@
       "path": "skills/spring-boot-3",
       "kind": "skills",
       "license": "MIT",
-      "stars": 255,
-      "forks": 39,
+      "stars": 334,
+      "forks": 54,
       "defaultBranch": "main",
       "description": "Production-grade Claude Code and Codex skills for Spring Boot developers, versioned by Spring Boot 3 and 4",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

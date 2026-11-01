@@ -11,11 +11,11 @@
       "path": "rules/node-express.mdc",
       "kind": "instructions",
       "license": "CC0-1.0",
-      "stars": 40722,
-      "forks": 3470,
+      "stars": 41072,
+      "forks": 3537,
       "defaultBranch": "main",
       "description": "Node/Express Cursor rules file covering REST API conventions and project structure",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

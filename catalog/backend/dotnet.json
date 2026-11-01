@@ -11,11 +11,11 @@
       "path": "skills",
       "kind": "mixed",
       "license": "MIT",
-      "stars": 1139,
-      "forks": 102,
+      "stars": 1244,
+      "forks": 115,
       "defaultBranch": "master",
       "description": "Claude Code skills and sub-agents for .NET developers",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "dotnet/aspnet/net/csharp",
@@ -24,11 +24,11 @@
       "path": "skills",
       "kind": "mixed",
       "license": "MIT",
-      "stars": 695,
-      "forks": 165,
+      "stars": 797,
+      "forks": 178,
       "defaultBranch": "main",
       "description": "Makes Claude Code a .NET 10 expert via specialist agents and skills",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

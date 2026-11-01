@@ -11,11 +11,11 @@
       "path": "mastering-typescript",
       "kind": "skills",
       "license": "none",
-      "stars": 30,
+      "stars": 31,
       "forks": 2,
       "defaultBranch": "main",
       "description": "Claude Code skill for enterprise-grade TypeScript development with type-safe patterns and React/NestJS framework integration",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "typescript/node",
@@ -28,7 +28,7 @@
       "forks": 1,
       "defaultBranch": "main",
       "description": "Claude Code skills, commands and agents for Node.js/Fastify backend development",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

@@ -11,11 +11,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "MIT",
-      "stars": 2822,
-      "forks": 165,
+      "stars": 3227,
+      "forks": 189,
       "defaultBranch": "main",
       "description": "Agent skills for Vue 3 development covering best practices, Vue Router, and Pinia",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "vue",
@@ -27,7 +27,7 @@
       "forks": 4,
       "defaultBranch": "main",
       "description": "Test-driven Vue 3 + TypeScript Claude Code Agent Skill emphasizing functional patterns and maintainable architecture",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

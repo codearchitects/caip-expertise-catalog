@@ -11,11 +11,11 @@
       "path": "skills/cloud/cloud-sql-basics",
       "kind": "skills",
       "license": "Apache-2.0",
-      "stars": 19471,
-      "forks": 1562,
+      "stars": 21739,
+      "forks": 1851,
       "defaultBranch": "main",
       "description": "Official Google agent skills; cloud-sql-basics generates and explains managed Cloud SQL resources (PostgreSQL, MySQL, SQL Server)",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "postgres/postgresql/google-cloud",
@@ -24,11 +24,11 @@
       "path": "skills/cloud/alloydb-basics",
       "kind": "skills",
       "license": "Apache-2.0",
-      "stars": 19471,
-      "forks": 1562,
+      "stars": 21739,
+      "forks": 1851,
       "defaultBranch": "main",
       "description": "Official Google agent skills; alloydb-basics manages clusters, instances, and backups for AlloyDB for PostgreSQL, with MCP tool integration",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "postgres/postgresql/sql",
@@ -37,11 +37,11 @@
       "path": "skills/postgres",
       "kind": "skills",
       "license": "Apache-2.0",
-      "stars": 1833,
-      "forks": 107,
+      "stars": 1877,
+      "forks": 120,
       "defaultBranch": "main",
       "description": "MCP server and Claude/Cursor plugin skills for Postgres, PostGIS, and TimescaleDB, published by Timescale",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "postgres/postgresql/sql",
@@ -54,7 +54,7 @@
       "forks": 0,
       "defaultBranch": "main",
       "description": "Deep-dive PostgreSQL-internals knowledge corpus with 55+ agent skills covering WAL, vacuum, planner, and replication",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

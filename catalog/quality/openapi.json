@@ -11,11 +11,11 @@
       "path": "templates",
       "kind": "skills",
       "license": "Apache-2.0",
-      "stars": 340,
-      "forks": 18,
+      "stars": 342,
+      "forks": 19,
       "defaultBranch": "main",
       "description": "Converts OpenAPI specs into context-efficient Agent Skill (SKILL.md) documentation for AI agents",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "openapi/rest",
@@ -28,7 +28,7 @@
       "forks": 6,
       "defaultBranch": "master",
       "description": "Agent Skills for OpenAPI authoring and SDK generation with the Speakeasy CLI",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

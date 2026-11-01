@@ -11,11 +11,11 @@
       "path": "skills/python",
       "kind": "skills",
       "license": "MIT",
-      "stars": 85,
-      "forks": 12,
+      "stars": 111,
+      "forks": 17,
       "defaultBranch": "main",
       "description": "Checklist-driven Claude Code skills for professional Python development: api-design, packaging, testing-strategy, release-management",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "python",
@@ -24,11 +24,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "MIT",
-      "stars": 9,
-      "forks": 1,
+      "stars": 10,
+      "forks": 2,
       "defaultBranch": "main",
       "description": "AI skill sets for building solid Python backends: fastapi-design, pydantic, error-handling, ruff-linter, ty-skills",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

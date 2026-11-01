@@ -11,11 +11,11 @@
       "path": "categories/02-language-specialists/flutter-expert.md",
       "kind": "agents",
       "license": "MIT",
-      "stars": 24846,
-      "forks": 2875,
+      "stars": 26240,
+      "forks": 3010,
       "defaultBranch": "main",
       "description": "100+ specialized Claude Code subagents; flutter-expert covers Flutter app architecture and widget patterns",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "flutter",
@@ -24,11 +24,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "BSD-3-Clause",
-      "stars": 2906,
-      "forks": 176,
+      "stars": 3133,
+      "forks": 190,
       "defaultBranch": "main",
       "description": "Official Flutter-team agent plugins bundling SKILL.md skills, MCP config, and rules for Flutter dev workflows",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

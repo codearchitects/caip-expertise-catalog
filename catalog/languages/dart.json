@@ -11,11 +11,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "BSD-3-Clause",
-      "stars": 469,
-      "forks": 35,
+      "stars": 536,
+      "forks": 36,
       "defaultBranch": "main",
       "description": "Official Dart-team Agent Skills for CLI apps, native assets, testing, and more",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "dart",
@@ -24,11 +24,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "Apache-2.0",
-      "stars": 143,
+      "stars": 148,
       "forks": 16,
       "defaultBranch": "main",
       "description": "Agent Skills for the Dart and Flutter ecosystem, maintained by a Google Dart-team engineer",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

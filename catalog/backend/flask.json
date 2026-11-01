@@ -11,11 +11,11 @@
       "path": "rules/python-flask-json-guide-cursorrules-prompt-file.mdc",
       "kind": "instructions",
       "license": "CC0-1.0",
-      "stars": 40722,
-      "forks": 3470,
+      "stars": 41072,
+      "forks": 3537,
       "defaultBranch": "main",
       "description": "Large collection of Cursor .mdc rule files across stacks, including a Flask JSON API guide",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

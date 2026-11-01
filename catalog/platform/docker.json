@@ -11,11 +11,11 @@
       "path": "categories/03-infrastructure/docker-expert.md",
       "kind": "agents",
       "license": "MIT",
-      "stars": 24846,
-      "forks": 2875,
+      "stars": 26240,
+      "forks": 3010,
       "defaultBranch": "main",
       "description": "docker-expert subagent for containerization and Docker Compose orchestration",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "docker/google-cloud/serverless",
@@ -24,11 +24,11 @@
       "path": "skills/cloud/cloud-run-basics",
       "kind": "skills",
       "license": "Apache-2.0",
-      "stars": 19471,
-      "forks": 1562,
+      "stars": 21739,
+      "forks": 1851,
       "defaultBranch": "main",
       "description": "Official Google agent skills; cloud-run-basics manages Cloud Run services, jobs, and worker pools for containerized deployments",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "docker/compose",
@@ -36,12 +36,12 @@
       "url": "https://github.com/netresearch/docker-development-skill",
       "path": "skills/docker-development",
       "kind": "skills",
-      "license": "NOASSERTION",
-      "stars": 19,
-      "forks": 1,
+      "license": "none",
+      "stars": 24,
+      "forks": 2,
       "defaultBranch": "main",
       "description": "Agent Skill for Docker image development patterns: Dockerfile best practices, CI testing, and compose orchestration",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

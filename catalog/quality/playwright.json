@@ -11,11 +11,11 @@
       "path": "skills/playwright-skill",
       "kind": "skills",
       "license": "MIT",
-      "stars": 3099,
-      "forks": 237,
+      "stars": 3260,
+      "forks": 255,
       "defaultBranch": "main",
       "description": "General-purpose Playwright browser-automation skill for coding agents, with full API reference loaded on demand",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "playwright/testing",
@@ -23,11 +23,11 @@
       "url": "https://github.com/testdino-hq/playwright-skill",
       "kind": "skills",
       "license": "MIT",
-      "stars": 358,
-      "forks": 60,
+      "stars": 407,
+      "forks": 66,
       "defaultBranch": "main",
       "description": "TestDino Playwright Skill: AI-powered guides for Playwright best practices, locators, CI integration, and migration",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }
