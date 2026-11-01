@@ -11,11 +11,11 @@
       "path": "plugins/jvm-languages/agents/java-pro.md",
       "kind": "agents",
       "license": "MIT",
-      "stars": 39397,
-      "forks": 4201,
+      "stars": 42058,
+      "forks": 4452,
       "defaultBranch": "main",
       "description": "Multi-harness agentic plugin marketplace; java-pro agent covers modern Java development practices",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "java",
@@ -24,11 +24,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "MIT",
-      "stars": 726,
-      "forks": 144,
+      "stars": 763,
+      "forks": 153,
       "defaultBranch": "main",
       "description": "Reusable AI development skills for Java projects: code review, SOLID principles, design patterns, JPA patterns",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

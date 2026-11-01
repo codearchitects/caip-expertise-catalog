@@ -11,11 +11,11 @@
       "path": "instructions/nestjs.instructions.md",
       "kind": "instructions",
       "license": "MIT",
-      "stars": 38623,
-      "forks": 4882,
+      "stars": 40639,
+      "forks": 5255,
       "defaultBranch": "main",
       "description": "Community-contributed Copilot instructions collection; nestjs.instructions.md covers NestJS architecture conventions",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "nestjs",
@@ -24,11 +24,11 @@
       "path": "skills/nestjs-best-practices",
       "kind": "skills",
       "license": "none",
-      "stars": 269,
-      "forks": 31,
+      "stars": 291,
+      "forks": 34,
       "defaultBranch": "main",
       "description": "NestJS best-practices and architecture skill: 40 rules across 10 categories for AI coding agents",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

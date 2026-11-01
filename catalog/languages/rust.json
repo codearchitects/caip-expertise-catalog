@@ -11,11 +11,11 @@
       "path": "skills",
       "kind": "mixed",
       "license": "none",
-      "stars": 1439,
-      "forks": 111,
+      "stars": 1563,
+      "forks": 119,
       "defaultBranch": "main",
       "description": "Rust Developer AI Assistance System: meta-problem-driven knowledge indexing for agent skills",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "rust",
@@ -23,11 +23,11 @@
       "url": "https://github.com/leonardomso/rust-skills",
       "kind": "skills",
       "license": "MIT",
-      "stars": 483,
-      "forks": 56,
+      "stars": 661,
+      "forks": 71,
       "defaultBranch": "master",
       "description": "A collection of 265 rules across 26 categories that AI coding agents use to write idiomatic, fast, and safe Rust",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

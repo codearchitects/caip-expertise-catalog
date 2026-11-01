@@ -11,11 +11,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "MIT",
-      "stars": 3163,
-      "forks": 206,
+      "stars": 3744,
+      "forks": 252,
       "defaultBranch": "main",
       "description": "A collection of Golang agentic skills for Claude Code",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "go",
@@ -24,11 +24,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "Apache-2.0",
-      "stars": 155,
-      "forks": 18,
+      "stars": 188,
+      "forks": 20,
       "defaultBranch": "main",
       "description": "AI Agent Skills for idiomatic, production-ready Go code, distilled from Google, Uber, and community practices",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

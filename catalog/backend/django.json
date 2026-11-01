@@ -11,11 +11,11 @@
       "path": ".claude",
       "kind": "mixed",
       "license": "MIT",
-      "stars": 171,
+      "stars": 178,
       "forks": 32,
       "defaultBranch": "main",
       "description": "Claude Code Django config with django-models/forms/templates, celery-patterns and htmx-patterns skills plus code-reviewer and github-workflow agents",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "django",
@@ -24,11 +24,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "MIT",
-      "stars": 30,
+      "stars": 32,
       "forks": 4,
       "defaultBranch": "main",
       "description": "Collection of AI Skills for Django development (dependency upgrades, type fixes) from the SaaS Pegasus/Django boilerplate team",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

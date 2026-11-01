@@ -11,11 +11,11 @@
       "path": "categories/02-language-specialists/laravel-specialist.md",
       "kind": "agents",
       "license": "MIT",
-      "stars": 24846,
-      "forks": 2875,
+      "stars": 26240,
+      "forks": 3010,
       "defaultBranch": "main",
       "description": "laravel-specialist subagent for Laravel application architecture and conventions",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "php/laravel",
@@ -24,11 +24,11 @@
       "path": "laravel",
       "kind": "mixed",
       "license": "none",
-      "stars": 714,
-      "forks": 29,
+      "stars": 733,
+      "forks": 26,
       "defaultBranch": "main",
       "description": "Laravel's official collection of agent skills for AI-assisted Laravel development",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

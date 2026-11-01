@@ -11,11 +11,11 @@
       "path": "angular-developer",
       "kind": "skills",
       "license": "none",
-      "stars": 632,
+      "stars": 706,
       "forks": 45,
       "defaultBranch": "main",
       "description": "Official Angular-team agent skills (angular-developer, angular-new-app) for code generation and architecture guidance; no LICENSE file present",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "angular",
@@ -23,11 +23,11 @@
       "url": "https://github.com/mofirojean/angular-ui-skills",
       "kind": "skills",
       "license": "MIT",
-      "stars": 29,
+      "stars": 32,
       "forks": 2,
       "defaultBranch": "master",
       "description": "Agent skills teaching AI coding assistants to build Angular apps with popular UI component libraries",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

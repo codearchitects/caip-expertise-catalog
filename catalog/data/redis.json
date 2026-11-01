@@ -11,11 +11,11 @@
       "path": "skills/redis-core",
       "kind": "skills",
       "license": "MIT",
-      "stars": 140,
-      "forks": 29,
+      "stars": 171,
+      "forks": 32,
       "defaultBranch": "main",
       "description": "Redis' official collection of agent skills — data structures, query engine, vector search, caching, and performance optimization",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

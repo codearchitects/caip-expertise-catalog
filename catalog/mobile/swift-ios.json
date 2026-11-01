@@ -11,11 +11,11 @@
       "path": "swiftui-pro",
       "kind": "skills",
       "license": "MIT",
-      "stars": 4648,
-      "forks": 167,
+      "stars": 6426,
+      "forks": 250,
       "defaultBranch": "main",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "swift/ios",
@@ -24,11 +24,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "MIT",
-      "stars": 699,
-      "forks": 66,
+      "stars": 844,
+      "forks": 79,
       "defaultBranch": "main",
       "description": "Claude Code skills for Apple platform development (iOS, macOS, iPadOS): product validation, code generation, App Store optimization",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

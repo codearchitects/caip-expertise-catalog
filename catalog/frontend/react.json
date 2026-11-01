@@ -11,11 +11,11 @@
       "path": "categories/02-language-specialists/react-specialist.md",
       "kind": "agents",
       "license": "MIT",
-      "stars": 24846,
-      "forks": 2875,
+      "stars": 26240,
+      "forks": 3010,
       "defaultBranch": "main",
       "description": "react-specialist subagent for modern React architecture, hooks, and component patterns",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "react",
@@ -28,7 +28,7 @@
       "forks": 0,
       "defaultBranch": "main",
       "description": "24 deterministic Claude skills for React 18/19: hooks, components, Server Components, testing, performance",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }

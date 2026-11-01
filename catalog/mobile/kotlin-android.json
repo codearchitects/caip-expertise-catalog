@@ -11,11 +11,11 @@
       "path": "skills",
       "kind": "skills",
       "license": "Apache-2.0",
-      "stars": 1009,
-      "forks": 47,
+      "stars": 1135,
+      "forks": 57,
       "defaultBranch": "main",
       "description": "Skills for Kotlin, Jetpack Compose, and Android development (compose-performance, kotlin-concurrency-and-flow, etc.)",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     },
     {
       "stack": "kotlin/android",
@@ -23,11 +23,11 @@
       "url": "https://github.com/dpconde/claude-android-skill",
       "kind": "skills",
       "license": "MIT",
-      "stars": 322,
-      "forks": 42,
+      "stars": 350,
+      "forks": 50,
       "defaultBranch": "main",
       "description": "Claude Code skill for building modern Android apps (Kotlin/Compose) following best practices",
-      "verifiedAt": "2026-09-04"
+      "verifiedAt": "2026-11-01"
     }
   ]
 }
